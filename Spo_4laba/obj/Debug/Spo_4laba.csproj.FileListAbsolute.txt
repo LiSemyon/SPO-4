@@ -1,0 +1,6 @@
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\Spo_4laba\Spo_4laba\bin\Debug\Spo_4laba.exe.config
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\Spo_4laba\Spo_4laba\bin\Debug\Spo_4laba.exe
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\Spo_4laba\Spo_4laba\bin\Debug\Spo_4laba.pdb
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\Spo_4laba\Spo_4laba\obj\Debug\Spo_4laba.csprojResolveAssemblyReference.cache
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\Spo_4laba\Spo_4laba\obj\Debug\Spo_4laba.exe
+C:\Users\Елизавета\Documents\Visual Studio 2013\Projects\Spo_4laba\Spo_4laba\obj\Debug\Spo_4laba.pdb
